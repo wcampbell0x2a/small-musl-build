@@ -12,3 +12,5 @@ panic = "abort"
 
 
 [dependencies]
+backhand = "0.13.0"
+xz2 = { version = "0.1.7", features = ["static"] }
